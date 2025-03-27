@@ -1,5 +1,3 @@
-# gazmaths.github.io
-gazmaths.github.io/GOAgboola-portfolio-main
 # Data Scientist
 
 #### Technical Skills: Python, SQL, SAS, Docker, Git, MLflow, Streamlit, Tensorflow, Pytorch, Tableau, PowerBI, NLP
