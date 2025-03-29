@@ -1,52 +1,29 @@
-# Data Scientist
+# Gazali Agboola - Personal Website
 
-#### Technical Skills: Python, SQL, SAS, Docker, Git, MLflow, Streamlit, Tensorflow, Pytorch, Tableau, PowerBI, NLP
+Welcome to my personal website repository! This site serves as an online portfolio to showcase my work, including my biography, skills, publications, and research projects.
 
-## Education
-- Ph.D., Data Science and Analytics | North Carolina A&T State University (Expected: May 2026)								       		
-- M.S., Mathematics	| University Of Ilorin (_December 2015_)	 			        		
-- B.S., Mathematics | University Of Ilorin (_July 2013_)
+## Overview
 
-## Work Experience
-**Data Science Research Assistant @ North Carolina A&T State University (_August 2022 - Present_)**
-- Developed ensemble machine learning models achieving 99.4% accuracy in landslide susceptibility mapping
-- Researched causal inference techniques in disaster management and built knowledge graphs for evacuation systems
-- Applied unsupervised deep learning techniques for change detection and computer vision supervised segmentation models for landslide detection
+I am a Ph.D. candidate in Data Science & Analytics at North Carolina A&T State University. My research interests lie in machine learning, geospatial data science, and disaster management, specifically focusing on landslide susceptibility mapping and causal inference techniques.
 
-**Commercial Data Analyst @ FrieslandCampina WAMCO (_Feb. 2020 - Dec. 2021_)**
-- Effectively monitored a credit control system with the supervision of the commercial control manager and in collaboration with sales, finance, and executive team members to drive above 96% of payment-to-invoice ratio in 2021.
-- Automated customer payment analysis using data that increased revenue by 20% in 2020
-- Optimized forecasting & demand planning, improving cash flow and credit risk mitigation
+## Sections
 
-**Business Support Analyst @ FrieslandCampina WAMCO (_Jan. 2017 - Jan. 2020_)**
-- Optimized Operational Performance: Analyzed and reported KPIs, increasing line per call (11→15), callage (20→26), and achieving a 100% strike rate
-- Enhanced Data Integrity & Field Execution: Identified performance gaps, implemented corrective actions, and ensured data accuracy within the Distribution Management System (DMS) database
+1. **[Biography & Skills](https://gazmaths.github.io/)**: An introduction to who I am, my background, and the technical skills I have acquired in data science.
+2. **[Publications](https://gazmaths.github.io/publications.html)**: A list of my research publications in the field of data science and machine learning.
+3. **[Projects](https://gazmaths.github.io/projects.html)**: A showcase of my academic and professional projects.
+4. **[CV](https://gazmaths.github.io/cv.html)**: My detailed curriculum vitae, available for download.
 
-## Projects
-### Optimized machine learning models for landslide susceptibility mapping
-[Publication](https://www.sciencedirect.com/science/article/pii/S1574954124001250)
+## Contact
 
-I developed an ensemble machine learning approach using **Python and geospatial data analysis** to assess landslide susceptibility by analyzing the correlation between historical landslides and geo-environmental factors. Using multiple models, including SVM, LR, LDA, RF, and XGBoost, I compared different random point selection methods (slope threshold and buffer-based) for mapping landslide risk. The ensemble model achieved high performance, with an AUC-ROC of 99.4% in one scenario. My method optimally identifies landslide-prone areas for better disaster risk management and land use planning.
+Feel free to reach out to me directly through the contact form on the website or connect with me on:
+- [LinkedIn](https://www.linkedin.com/in/gazal-agboola-351b44b8/)
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=qs8xlvMAAAAJ)
+- [ResearchGate](https://www.researchgate.net/profile/Gazali-Agboola)
 
-![Machine Learning](/assets/img/machine-learning.jpg)
+## Setup Instructions
 
-### Edu-Navigator Chatbot: AI-powered chatbot for HBCU students using 
+To view or edit this website locally:
 
-Used **Python and Prompt engineering** to fine-tune the GPT-3.5 turbo engine to develop the Edu Navigator Chatbot for HBCU students to navigate through their education journey. We designed the chatbot to help guide students through their educational journey by providing personalized advice, resources, and answers to common questions related to academics, campus life, and student services. By leveraging Python for the back-end development and fine-tuning the model with specific prompts, the chatbot was able to offer targeted, relevant, and user-friendly assistance to enhance the student experience.
-
-![Deep Learning](/assets/img/deeplearning.jpg)
-
-## Awards and Honors
-- North Carolina ArcGIS Users’ Graduate Academic Excellence Award  - 2024                                                                                             
-- HP Future of Work Academy (FOWA) Challenge Winner - 2024                                                                                                                                   
-- Thermo Fisher Scientific Innovation Challenge (First Position) - 2024                                                                                                          
-
-
-## Publications
-1. Agboola, G., Beni, L. H., Elbayoumi, T., & Thompson, G. (2024). Optimizing landslide susceptibility mapping using machine learning and geospatial techniques. Ecological Informatics, 81, 102583.
-2. Isiaka, A. B., Anakwenze, V. N., Ilodinso, C. R., Anaukwu, C. G., Ezeokoli, C. M. V., Noi, S. M., ... & Adonu, R. M. (2024). Harnessing artificial intelligence for early detection and management of infectious disease outbreaks. International Journal of Innovative Research and Development, 13, 52-65.
-3. Ogunmiloro, O. M., Obayomi, A. A., & Agboola, G. O. (2024, April). The menace of ghost workers, job racketeers, and creators of online job offer scam sites on unemployment in Nigeria: a mathematical model analysis and control. In Operations Research Forum (Vol. 5, No. 2, p. 34). Cham: Springer International Publishing.
-4. Agboola, G., & Beni, L. H. (2023, December). A Comparative Study of Machine Learning Algorithms for Landslide Susceptibility Assessment. In AGU Fall Meeting Abstracts (Vol. 2023, pp. NH03-07).
-5. Agboola, G., & Beni, L. H. Evaluating Deep Learning Object Detection Algorithms for Landslide Detection. AGU24.
-
-- [Data Science Blog](https://medium.com/@agboolagazal)
+1. Clone this repository to your local machine:
+   ```bash
+   git clone https://github.com/gazmaths/gazmaths.github.io.git
