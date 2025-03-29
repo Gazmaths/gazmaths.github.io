@@ -16,7 +16,7 @@ Use the links below to explore my work:
 - [Biography & Skills](#) (This page)
 - [Publications](publications.md)
 - [Projects](project.md)
-- [CV](resume.md)
+- [Resume](resume.md)
 
 ## About Me
 I am a Ph.D. candidate in Data Science & Analytics at North Carolina A&T State University. My research interests include machine learning, geospatial data science, and disaster management. 
