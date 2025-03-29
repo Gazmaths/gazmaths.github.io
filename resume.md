@@ -7,4 +7,4 @@ title: Resume
 
 You can download my full resume in PDF format by clicking the link below:
 
-[Download Resume](assets/pdf/goagboola_resume.pdf)
+[Download Resume](assets/img/pdf/goagboola_resume.pdf)
