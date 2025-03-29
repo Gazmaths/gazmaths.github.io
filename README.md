@@ -11,7 +11,7 @@ I am a Ph.D. candidate in Data Science & Analytics at North Carolina A&T State U
 1. **[Biography & Skills](https://gazmaths.github.io/)**: An introduction to who I am, my background, and the technical skills I have acquired in data science.
 2. **[Publications](https://gazmaths.github.io/publications.md)**: A list of my research publications in the field of data science and machine learning.
 3. **[Projects](https://gazmaths.github.io/projects.md)**: A showcase of my academic and professional projects.
-4. **[resume](https://gazmaths.github.io/resume.md)**: My detailed curriculum vitae, available for download.
+4. **[Resume](https://gazmaths.github.io/resume.md)**: My detailed curriculum vitae, available for download.
 
 ## Contact
 
