@@ -15,7 +15,7 @@ I’m Gazali Agboola, a Ph.D. candidate in **Data Science and Analytics** at **N
 
 Before academia, I worked at FrieslandCampina WAMCO in Nigeria, where I led projects in credit risk, demand forecasting, and business operations. Through data-driven decision-making, I significantly improved performance metrics and revenue.
 
-I am highly proficient in **Python**, **R**, **SQL**, **SAS**, and **SAP**, and I enjoy building robust AI solutions using **PyTorch**, **ensorFlow**, Docker, and cloud platforms like AWS and GCP. I’ve developed systems for landslide detection, credit card fraud analysis, and AI-driven chatbots like Edu-Navigator using GPT-3.5. You’ll find more about my work below:
+I am highly proficient in **Python**, **R**, **SQL**, **SAS**, and **SAP**, and I enjoy building robust AI solutions using **PyTorch**, **TensorFlow**, Docker, and cloud platforms like AWS and GCP. I’ve developed systems for landslide detection, credit card fraud analysis, and AI-driven chatbots like Edu-Navigator using GPT-3.5T. You’ll find more about my work below:
 
 [View My Portfolio](https://gazmaths.github.io/portfolio/){: .btn .btn--info}
 {: .text-center}
