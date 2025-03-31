@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: /assets/images/Gazal.jpg 
+  image: /assets/images/Gazal.jpeg 
 ---
 
 <img src="https://gazmaths.github.io/assets/images/gazal-headshort2.jpg" width="250">{: .align-center}
