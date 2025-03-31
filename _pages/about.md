@@ -2,10 +2,10 @@
 title: "About"
 permalink: /about/
 header:
-  image: /assets/images/gazal-headshot2.jpg 
+  image: /assets/images/Gazal.jpeg 
 ---
 
-<img src="https://gazmaths.github.io/assets/images/gazal-headshot.png" width="250">{: .align-center}
+<img src="https://gazmaths.github.io/assets/images/gazal-headshort2.jpg" width="250">{: .align-center}
 
 [Resume](https://gazmaths.github.io/cv/){: .btn .btn--info} [Portfolio](https://gazmaths.github.io/portfolio/){: .btn .btn--info} [LinkedIn](https://www.linkedin.com/in/gazal-agboola-351b44b8/){: .btn .btn--info}
 {: .text-center}
@@ -29,7 +29,7 @@ I am passionate about using AI for societal good and enjoy learning from the glo
 ### Playing Chess
 Chess has been more than just a game for me—it’s a way to train focus, strategy, and foresight, which aligns well with my work in AI and data science. Whether I’m coding a new deep learning model or preparing for a research presentation, I often find parallels in the quiet discipline of the chessboard. It teaches me to think multiple steps ahead, embrace uncertainty, and stay calm under pressure.
 
-<img src="https://goagboola.github.io/assets/images/chessboard.jpg" width="580">{: .align-center}
+<img src="https://goagboola.github.io/assets/images/chessboard.webp" width="580">{: .align-center}
 *“Chess is the gymnasium of the mind.” – Blaise Pascal*
 {: .small}
 {: .text-center}
