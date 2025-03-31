@@ -15,7 +15,7 @@ I’m Gazali Agboola, a Ph.D. candidate in **Data Science and Analytics** at **N
 
 Before academia, I worked at FrieslandCampina WAMCO in Nigeria, where I led projects in credit risk, demand forecasting, and business operations. Through data-driven decision-making, I significantly improved performance metrics and revenue.
 
-I am highly proficient in **Python**, **R**, **SQL**, **SAS**, and **SAP**, and I enjoy building robust AI solutions using **PyTorch**, **TensorFlow**, Docker, and cloud platforms like AWS and GCP. I’ve developed systems for landslide detection, credit card fraud analysis, and AI-driven chatbots like Edu-Navigator using GPT-3.5T. You’ll find more about my work below:
+I am highly proficient in **Python**, **R**, **SQL**, **SAS**, and **SAP**, and I enjoy building robust AI solutions using **PyTorch**, **TensorFlow**, Docker, and cloud platforms like AWS and GCP. I’ve developed systems for landslide detection, credit card fraud analysis, and AI-driven chatbots like Edu-Navigator using GPT-3.5 Turbo. You’ll find more about my work below:
 
 [View My Portfolio](https://gazmaths.github.io/portfolio/){: .btn .btn--info}
 {: .text-center}
@@ -27,7 +27,7 @@ I am passionate about using AI for societal good and enjoy learning from the glo
 
 ## Hobbies
 ### Playing Chess
-Chess has been more than just a game for me—it’s a way to train focus, strategy, and foresight, which aligns well with my work in AI and data science. Whether I’m coding a new deep learning model or preparing for a research presentation, I often find parallels in the quiet discipline of the chessboard. It teaches me to think multiple steps ahead, embrace uncertainty, and stay calm under pressure.
+Chess has been more than just a game for me—it’s a way to train focus, strategy, and foresight, which aligns well with my work in AI and data science. Whether I’m coding a new deep learning model or preparing for a research presentation, I often find parallels in chess as it relates to problem solving. It teaches me to think multiple steps ahead, embrace uncertainty, and stay calm under pressure.
 
 <img src="https://goagboola.github.io/assets/images/chessboard.webp" width="580">{: .align-center}
 *“Chess is the gymnasium of the mind.” – Blaise Pascal*
