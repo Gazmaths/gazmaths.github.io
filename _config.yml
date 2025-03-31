@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chris Tran" # "Site Title"
+title                    : "Gazali Agboola" # "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Chris Tran"
-description              : "Chris Tran's Portfolio"
+name                     : "Gazali Agboola"
+description              : "Gazali Agboola's Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"    # should leave empty
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -107,24 +107,24 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chris Tran"
-  avatar           : "/assets/images/profile-photo.png"
+  name             : "Gazali Agboola"
+  avatar           : "/assets/images/gazal-headshot.png"
   bio              : "<i>A learner,<br>a runner,<br> a stargazer.</i>"
   location         :
   email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:tranduckhanh96@gmail.com
+      url: mailto:agboolagazal@gmail.com
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/chriskhanhtran"
+      url: "https://github.com/gazmaths"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/chriskhanhtran/"
+      url: "https://www.linkedin.com/in/gazal-agboola-351b44b8/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/chriskhanhtran"
+      url: "https://twitter.com/agboolagazal"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
       url: https://www.youtube.com/channel/UCo8okHIdSppn_idUVuuebhg
