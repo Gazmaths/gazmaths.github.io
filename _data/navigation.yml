@@ -6,8 +6,8 @@ main:
     url: /posts/
   - title: "Resources"
     url: /resources/   
-  - title: "Films"
-    url: /films/
+  - title: "Publications"
+    url: /publications/
   - title: "CV"
     url: /cv/
   - title: "About"
