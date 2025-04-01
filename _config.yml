@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Gazali Agboola"
-  avatar           : "/assets/images/gazal-headshot.png"
+  avatar           : "/assets/images/Gazal.jpg"
   bio              : "<i>A learner,<br>a runner,<br> a stargazer.</i>"
   location         :
   email            : 
@@ -127,7 +127,7 @@ author:
       url: "https://twitter.com/agboolagazal"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
-      url: https://www.youtube.com/channel/UCo8okHIdSppn_idUVuuebhg
+      url: https://www.youtube.com/@gazmaths
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   # url: "https://your-website.com"
@@ -143,16 +143,16 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: https://github.com/chriskhanhtran   
+      url: https://github.com/gazmaths
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: https://www.linkedin.com/in/chriskhanhtran/
+      url: https://www.linkedin.com/in/gazal-agboola-351b44b8/
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/chriskhanhtran"
+      url: "https://twitter.com/agboolagazal"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
-      url: https://www.youtube.com/channel/UCo8okHIdSppn_idUVuuebhg      
+      url: https://www.youtube.com/@gazmaths    
   #  - label: "Twitter"
   #    icon: "fab fa-fw fa-twitter-square"
   #    # url:
