@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: assets/images/background_resized.png
+  image: assets/images/background_resized2.png
 ---
 
 <img src="https://gazmaths.github.io/assets/images/gazal-headshort2.jpg" width="250">{: .align-center}
@@ -29,7 +29,7 @@ I am passionate about using AI for societal good and enjoy learning from the glo
 ### Playing Chess
 Chess has been more than just a game for me—it’s a way to train focus, strategy, and foresight, which aligns well with my work in AI and data science. Whether I’m coding a new deep learning model or preparing for a research presentation, I often find parallels in chess as it relates to problem solving. It teaches me to think multiple steps ahead, embrace uncertainty, and stay calm under pressure.
 
-<img src="https://github.com/Gazmaths/gazmaths.github.io/blob/main/assets/images/chessboard.jpg" width="1200">{: .align-center}
+<img src="https:gazmaths.github.io/assets/images/chessboard.jpg" width="580">{: .align-center}
 *“Chess is the gymnasium of the mind.” – Blaise Pascal*
 {: .small}
 {: .text-center}
