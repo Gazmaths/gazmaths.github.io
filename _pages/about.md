@@ -7,7 +7,7 @@ header:
 
 <img src="https://gazmaths.github.io/assets/images/gazal-headshort2.jpg" width="250">{: .align-center}
 
-[Resume](https://gazmaths.github.io/cv/){: .btn .btn--info} [Portfolio](https://gazmaths.github.io/portfolio/){: .btn .btn--info} [LinkedIn](https://www.linkedin.com/in/gazal-agboola-351b44b8/){: .btn .btn--info}
+[Resume](https://gazmaths.github.io/cv/){: .btn .btn--info} [Portfolio](https://gazmaths.github.io/portfolio/){: .btn .btn--info} [LinkedIn](https://www.linkedin.com/in/gazal-agboola-351b44b8/){: .btn .btn--info} [Google Scholar](https://scholar.google.com/citations?hl=en&user=qs8xlvMAAAAJ){: .btn .btn--info}
 {: .text-center}
 
 
@@ -37,13 +37,22 @@ Chess has been more than just a game for me—it’s a way to train focus, strat
 <p align="center"><em>“Chess is the gymnasium of the mind.” – Blaise Pascal</em></p>
 
 
-- [Google Scholar](https://scholar.google.com/citations?hl=en&user=qs8xlvMAAAAJ)
-- [ResearchGate](https://www.researchgate.net/profile/Gazali-Agboola)
-
-<form action="https://formspree.io/f/mwplnnrp" method="POST">
-  <label for="email">Email:</label>
-  <input type="email" id="email" name="email" required>
-  <label for="message">Message:</label>
-  <textarea id="message" name="message" required></textarea>
-  <button type="submit">Send</button>
-</form>
+<div style="max-width: 500px; margin: 40px auto; padding: 20px; border: 1px solid #ddd; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.05); font-family: Arial, sans-serif;">
+  <h3 style="text-align: center; color: #3E64FF;">🤝 Let's Collaborate!</h3>
+  <p style="text-align: center;">Please feel free to contact me for collaborations or questions.</p>
+  
+  <form action="https://formspree.io/f/mwplnnrp" method="POST">
+    <label for="email" style="display: block; margin-top: 15px; font-weight: bold;">Email:</label>
+    <input type="email" id="email" name="email" required 
+           style="width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 8px; margin-top: 5px;">
+    
+    <label for="message" style="display: block; margin-top: 15px; font-weight: bold;">Message:</label>
+    <textarea id="message" name="message" rows="5" required 
+              style="width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 8px; margin-top: 5px;"></textarea>
+    
+    <button type="submit" 
+            style="margin-top: 20px; width: 100%; padding: 12px; background-color: #3E64FF; color: white; border: none; border-radius: 8px; font-weight: bold; cursor: pointer;">
+      ✉️ Send Message
+    </button>
+  </form>
+</div>
