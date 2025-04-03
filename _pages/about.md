@@ -10,16 +10,7 @@ header:
 [Resume](https://gazmaths.github.io/cv/){: .btn .btn--info} [Portfolio](https://gazmaths.github.io/portfolio/){: .btn .btn--info} [LinkedIn](https://www.linkedin.com/in/gazal-agboola-351b44b8/){: .btn .btn--info}
 {: .text-center}
 
-- [Google Scholar](https://scholar.google.com/citations?hl=en&user=qs8xlvMAAAAJ)
-- [ResearchGate](https://www.researchgate.net/profile/Gazali-Agboola)
 
-<form action="https://formspree.io/f/mwplnnrp" method="POST">
-  <label for="email">Email:</label>
-  <input type="email" id="email" name="email" required>
-  <label for="message">Message:</label>
-  <textarea id="message" name="message" required></textarea>
-  <button type="submit">Send</button>
-</form>
 
 
 ## Career Objectives
@@ -46,3 +37,13 @@ Chess has been more than just a game for me—it’s a way to train focus, strat
 <p align="center"><em>“Chess is the gymnasium of the mind.” – Blaise Pascal</em></p>
 
 
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=qs8xlvMAAAAJ)
+- [ResearchGate](https://www.researchgate.net/profile/Gazali-Agboola)
+
+<form action="https://formspree.io/f/mwplnnrp" method="POST">
+  <label for="email">Email:</label>
+  <input type="email" id="email" name="email" required>
+  <label for="message">Message:</label>
+  <textarea id="message" name="message" required></textarea>
+  <button type="submit">Send</button>
+</form>
