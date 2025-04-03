@@ -52,7 +52,8 @@ This app can be deployed to Streamlit Cloud for easy sharing and accessibility.
 * Seaborn
 * Matplotlib
 
-<img src="https://github.com/Gazmaths/ML_classification_app/blob/main/streamlit.png" width="580">{: .align-center}
+<img src="https://raw.githubusercontent.com/Gazmaths/ML_classification_app/main/streamlit.png" width="580">
+
 
 ### 📊 Interactive Data Analysis App
 
