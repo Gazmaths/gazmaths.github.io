@@ -44,7 +44,7 @@ Chess has been more than just a game for me—it’s a way to train focus, strat
   <form action="https://formspree.io/f/mwplnnrp" method="POST">
     <label for="email" style="display: block; margin-top: 15px; font-weight: bold;">Email:</label>
     <input type="email" id="email" name="email" required 
-           style="width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 8px; margin-top: 5px;">
+           style="width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 6px; margin-top: 4px;">
     
     <label for="message" style="display: block; margin-top: 15px; font-weight: bold;">Message:</label>
     <textarea id="message" name="message" rows="5" required 
