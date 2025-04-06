@@ -111,7 +111,7 @@ author:
   avatar           : "/assets/images/Gazal.jpg"
   bio              : "<I> Gazali Agboola is a Ph.D. candidate in Data Science and Analytics who loves to learn and develop AI-driven solutions. <br>He applies AI to solve real-world problems.</i>"
   location:
-    - label: "Greensboro, NC 27401"
+      label: "Greensboro, NC 27401"
       icon: "fas fa-fw fa-map-marker-alt"
   email            : 
   links:
