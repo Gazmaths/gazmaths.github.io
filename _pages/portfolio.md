@@ -74,6 +74,15 @@ This web-based app allows users to easily upload CSV files and perform explorato
 [![Streamlit App](https://img.shields.io/badge/Streamlit-Visit_App-red?logo=streamlit&logoColor=white)](https://gazal1app.streamlit.app/)
 
 ### Optimizing Landslide Susceptibility Models through Ensemble Classification Techniques
+The purpose of this study is to assess how well machine learning models perform on landslide susceptibility mapping. For Polk County, Western North Carolina, seven distinct models were examined for landslide susceptibility modeling: Support Vector Machine (SVM), Logistic Regression (LR), Linear Discriminant Analysis (LDA), Random Forest (RF), and Extreme Gradient Boosting (XGBoost) and ensemble techniques (Stacking and Weighted Average). A dataset of 1215 historical landslide events and 1215 non-landslide sites, along with fourteen geographic data layers, is used to evaluate these models.
+Metrics including accuracy, F1-score, Kappa score, and AUC-ROC are used to assess these models' performance, with a focus on how non-landslide random sampling affects model outcomes.
+
+With an AUC-ROC of 91.8% for the buffer-based scenario and 99.4% for the slope threshold scenario, the weighted average ensemble of the five models yielded the best results. This demonstrates the effectiveness of machine learning in landslide susceptibility mapping, offering a strong instrument for pinpointing high-risk regions and guiding plans for disaster risk reduction. 
+For more details, refer to the full paper:  
+<img src="https://gazmaths.github.io/assets/images/optimizingmetric.png" width="580">{: .align-center}
+<img src="https://gazmaths.github.io/assets/images/optimizingWA.png" width="580">{: .align-center}
+[Optimizing landslide susceptibility mapping using machine learning and geospatial techniques](https://www.sciencedirect.com/science/article/pii/S1574954124001250)
+
 ## 👁️‍🗨️ Computer Vision Methods
 ## 🤖 Building Chatbots with Pre-trained LLM Models
 ## 📝 Natural Language Processing Methods
