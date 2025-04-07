@@ -74,6 +74,6 @@ This web-based app allows users to easily upload CSV files and perform explorato
 [![Streamlit App](https://img.shields.io/badge/Streamlit-Visit_App-red?logo=streamlit&logoColor=white)](https://gazal1app.streamlit.app/)
 
 ### Optimizing Landslide Susceptibility Models through Ensemble Classification Techniques
-## 🧠Computer Vision Techniques
-## 🧠Developing Chatbots using pre-trained LLM Models
-## Natural Language Processing Techniques
+## 👁️‍🗨️ Computer Vision Methods
+## 🤖 Building Chatbots with Pre-trained LLM Models
+## 📝 Natural Language Processing Methods
