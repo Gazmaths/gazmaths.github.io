@@ -7,8 +7,8 @@ toc_icon: "bookmark"
 
 ---
 *Updated: 04/01/2025*
-## 🧠Machine Learning Pipeline with Streamlit
-### Automatic Model Hyperparameters GridSearch for Classification Models
+## 🧠Machine Learning Models Applications
+### Automatic Model Hyperparameters GridSearch for Classification Models Using Python and Streamlit
 
 * This project is a modular machine learning pipeline built using Python and Streamlit. Through an intuitive web interface, users can preprocess data, explore datasets, train machine learning models, and make predictions on unseen data. The pipeline supports a machine learning workflow, from data cleaning to model evaluation and prediction.
 [![View the python scripts on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Gazmaths/ML_classification_app)
@@ -55,9 +55,9 @@ This app can be deployed to Streamlit Cloud for easy sharing and accessibility.
 <img src="https://raw.githubusercontent.com/Gazmaths/ML_classification_app/main/streamlit.png" width="580">
 
 
-### 📊 Interactive Data Analysis App
+### 📊 Interactive Data Analysis App Using Python and Streamlit
 
-This web-based app allows users to upload CSV files and perform exploratory data analysis and linear regression modeling with ease. Built with Streamlit, the app features:
+This web-based app allows users to easily upload CSV files and perform exploratory data analysis and linear regression modeling. Built with Streamlit, the app features:
 
 📁 CSV file upload and preview
 
@@ -72,3 +72,8 @@ This web-based app allows users to upload CSV files and perform exploratory data
 📈 Visualization of actual vs. predicted values
 [![View the python scripts on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Gazmaths/data_analysis_app)
 [![Streamlit App](https://img.shields.io/badge/Streamlit-Visit_App-red?logo=streamlit&logoColor=white)](https://gazal1app.streamlit.app/)
+
+### Optimizing Landslide Susceptibility Models through Ensemble Classification Techniques
+## 🧠Computer Vision Techniques
+## 🧠Developing Chatbots using pre-trained LLM Models
+## Natural Language Processing Techniques
