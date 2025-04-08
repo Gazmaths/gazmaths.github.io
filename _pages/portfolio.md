@@ -87,5 +87,10 @@ For more details, refer to the full paper:
 ### Automatic Landslide Detection using a Fine-Tuned YOLOv11 Model
 I employed the YOLOv4 model from Ultralytics, utilizing a transfer learning approach with a high-resolution Roboflow landslide dataset, to improve landslide detection accuracy in Polk County, NC, and to provide valuable insights for developing effective hazard mitigation strategies.
 <img src="https://gazmaths.github.io/assets/images/Yolo11detection.png" width="680">{: .align-center}
+
+### Landslide Identification using Segmentation Models
+The objective of this project is to investigate the potential of the application of deep learning algorithms to analyze remote sensing data for landslide detection, utilizing an open-source dataset obtained from Meena et al. 2023.
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Gazmaths/Landslide-detection-using-semantic-segmentation-algorithms/blob/main/Landslide%20Detection%20Using%20Semantic%20Segmentation%20Algorithms.ipynb)
+<img src="https://gazmaths.github.io/assets/images/segmentationmodel.png" width="680">{: .align-center}
 ## 🤖 Building Chatbots with Pre-trained LLM Models
 ## 📝 Natural Language Processing Methods
