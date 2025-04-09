@@ -74,7 +74,7 @@ This web-based app allows users to easily upload CSV files and perform explorato
 [![Streamlit App](https://img.shields.io/badge/Streamlit-Visit_App-red?logo=streamlit&logoColor=white)](https://gazal1app.streamlit.app/)
 
 ### Optimizing Landslide Susceptibility Models through Ensemble Classification Techniques
-The purpose of this study is to assess how well machine learning models perform on landslide susceptibility mapping. For Polk County, Western North Carolina, seven distinct models were examined for landslide susceptibility modeling: Support Vector Machine (SVM), Logistic Regression (LR), Linear Discriminant Analysis (LDA), Random Forest (RF), and Extreme Gradient Boosting (XGBoost) and ensemble techniques (Stacking and Weighted Average). A dataset of 1215 historical landslide events and 1215 non-landslide sites, along with fourteen geographic data layers, is used to evaluate these models.
+This study aims to assess how well machine learning models perform on landslide susceptibility mapping. For Polk County, Western North Carolina, seven distinct models were examined for landslide susceptibility modeling: Support Vector Machine (SVM), Logistic Regression (LR), Linear Discriminant Analysis (LDA), Random Forest (RF), and Extreme Gradient Boosting (XGBoost) and ensemble techniques (Stacking and Weighted Average). A dataset of 1215 historical landslide events and 1215 non-landslide sites, and fourteen geographic data layers, is used to evaluate these models.
 Metrics including accuracy, F1-score, Kappa score, and AUC-ROC are used to assess these models' performance, with a focus on how non-landslide random sampling affects model outcomes.
 
 With an AUC-ROC of 91.8% for the buffer-based scenario and 99.4% for the slope threshold scenario, the weighted average ensemble of the five models yielded the best results. This demonstrates the effectiveness of machine learning in landslide susceptibility mapping, offering a strong instrument for pinpointing high-risk regions and guiding plans for disaster risk reduction. 
@@ -92,5 +92,22 @@ I employed the YOLOv4 model from Ultralytics, utilizing a transfer learning appr
 The objective of this project is to investigate the potential of the application of deep learning algorithms to analyze remote sensing data for landslide detection, utilizing an open-source dataset obtained from Meena et al. 2023.
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Gazmaths/Landslide-detection-using-semantic-segmentation-algorithms/blob/main/Landslide%20Detection%20Using%20Semantic%20Segmentation%20Algorithms.ipynb)
 <img src="https://gazmaths.github.io/assets/images/segmentationmodel.png" width="680">{: .align-center}
-## 🤖 Building Chatbots with Pre-trained LLM Models
+## 🤖 Generative AI Applications and Building Chatbots with Pre-trained LLM Models
+### 5-Day Gen AI Intensive Course with Google
+I took part in the Google 5-Day Generative AI intensive training, which included a hands-on assignment to be completed each day on Kaggle. 
+**Day 1 - Prompting**
+I worked through example prompts and techniques using Python SDK and AI Studio, which were further explained in the Prompting whitepaper. I also got inspiration by exploring various apps built using the Gemini family of models.
+**Day 1 - Evaluation and structured output**
+I worked on evaluating the performance of LLMs in real-world tasks, focusing on how to assess their outputs effectively
+**Day 2 - Classifying embeddings with Keras**
+I learned how to classify embeddings using Keras and the Gemini API.
+**Day 2 - Embeddings and similarity scores**
+I explored embeddings and similarity scores using the Gemini API. In this notebook, I used the embedding endpoint of the Gemini API to analyze similarity scores between different data points.
+**Day 2 - Document Q&A with RAG**
+ I learned how to use Retrieval Augmented Generation (RAG) with Chroma to enhance Document Q&A. I created a vector database with the Gemini API, enabling the retrieval of relevant information to generate tailored answers. This approach addresses the limitations of LLMs by allowing them to process external, previously unseen data and generate responses based on it using Chroma for efficient document searching and embedding.
+ **Day 3 - Function calling with the Gemini API**
+ On Day 3 of the Google-Kaggle 5-day Generative AI course, I explored function calling with the Gemini API. I learned how to build a chat interface over a local database using the Gemini API’s automatic function-calling feature. While the example was a simple, toy project without real-world safety and security constraints, it demonstrated how to easily integrate AI chat capabilities into existing applications.
+ **Day 4 - Fine-tuning a custom model**
+ On Day 4 of the Kaggle 5-day Generative AI course, I explored fine-tuning a custom model using the Gemini API. I focused on training the model to classify newsgroup posts into their respective categories. Fine-tuning allowed me to tailor the model for specific tasks like entity extraction, summarization, or creative generation. The notebook walked me through the process of tuning the model with the API, and I also learned that AI Studio supports creating and monitoring tuned models through a web UI using data from Google Sheets, Drive, or my own files.
 ## 📝 Natural Language Processing Methods
+
