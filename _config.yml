@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Gazali Agboola"
   avatar           : "/assets/images/Gazal.jpg"
-  bio              : "<I> Gazali Agboola is a Ph.D. candidate in Data Science and Analytics who loves to learn and develop AI-driven solutions. <br>He applies AI to solve real-world problems.</i>"
+  bio              : "<I> "<i>Gazali Agboola holds a B.Sc. and M.Sc. in Mathematics and is currently a Ph.D. candidate in Data Science and Analytics. <br>He loves to learn and develop AI-driven solutions, applying artificial intelligence to solve real-world problems.</i>"
   location         : "<i class='fas fa-map-marker-alt'></i> Greensboro, NC 27401"
   email            : 
   links:
