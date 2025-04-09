@@ -99,34 +99,31 @@ I worked as a software developer on a team named "20," consisting of 5 members, 
 
 ### 5-Day Gen AI Intensive Course with Google
 
-I took part in the Google 5-Day Generative AI intensive training, which included a hands-on assignment to be completed each day on Kaggle. 
+### Google 5-Day Generative AI Intensive Training
 
-*Day 1 - Prompting
+I participated in the Google 5-Day Generative AI intensive training, which included a hands-on assignment each day on Kaggle.
 
-I worked through example prompts and techniques using Python SDK and AI Studio, which were further explained in the Prompting whitepaper. I also got inspiration by exploring various apps built using the Gemini family of models.
+#### Day 1 - Prompting
+I worked through example prompts and techniques using the Python SDK and AI Studio, with further insights provided in the Prompting whitepaper. I also explored various apps built with the Gemini family of models for inspiration.
 
-*Day 1 - Evaluation and structured output
+#### Day 1 - Evaluation and Structured Output
+I focused on evaluating the performance of LLMs in real-world tasks, specifically learning how to assess and measure their outputs effectively.
 
-I worked on evaluating the performance of LLMs in real-world tasks, focusing on how to assess their outputs effectively
+#### Day 2 - Classifying Embeddings with Keras
+I learned how to classify embeddings using Keras and the Gemini API, enhancing my understanding of model classification.
 
-*Day 2 - Classifying embeddings with Keras
+#### Day 2 - Embeddings and Similarity Scores
+I explored embeddings and similarity scores with the Gemini API, using its embedding endpoint to analyze similarity scores between different data points.
 
-I learned how to classify embeddings using Keras and the Gemini API.
+#### Day 2 - Document Q&A with RAG
+I learned how to implement Retrieval Augmented Generation (RAG) with Chroma to enhance Document Q&A. I created a vector database with the Gemini API to retrieve relevant information and generate tailored answers, overcoming LLM limitations by processing external, unseen data and using Chroma for efficient document searching and embedding.
 
-*Day 2 - Embeddings and similarity scores
+#### Day 3 - Function Calling with the Gemini API
+I explored function calling with the Gemini API, learning to build a chat interface over a local database using the API’s automatic function-calling feature. Though the example was a simple project without real-world safety constraints, it demonstrated how to integrate AI chat capabilities into existing applications.
 
-I explored embeddings and similarity scores using the Gemini API. In this notebook, I used the embedding endpoint of the Gemini API to analyze similarity scores between different data points.
+#### Day 4 - Fine-Tuning a Custom Model
+I delved into fine-tuning a custom model using the Gemini API, focusing on training the model to classify newsgroup posts into their respective categories. The fine-tuning process enabled me to tailor the model for specific tasks like entity extraction, summarization, and creative generation. I also discovered that AI Studio supports creating and monitoring tuned models via a web UI using data from Google Sheets, Drive, or my own files.
 
-*Day 2 - Document Q&A with RAG
- 
- I learned how to use Retrieval Augmented Generation (RAG) with Chroma to enhance Document Q&A. I created a vector database with the Gemini API, enabling the retrieval of relevant information to generate tailored answers. This approach addresses the limitations of LLMs by allowing them to process external, previously unseen data and generate responses based on it using Chroma for efficient document searching and embedding.
- 
- *Day 3 - Function calling with the Gemini API
- 
- On Day 3 of the Google-Kaggle 5-day Generative AI course, I explored function calling with the Gemini API. I learned how to build a chat interface over a local database using the Gemini API’s automatic function-calling feature. While the example was a simple, toy project without real-world safety and security constraints, it demonstrated how to easily integrate AI chat capabilities into existing applications.
- 
- *Day 4 - Fine-tuning a custom model
-On Day 4 of the Kaggle 5-day Generative AI course, I explored fine-tuning a custom model using the Gemini API. I focused on training the model to classify newsgroup posts into their respective categories. Fine-tuning allowed me to tailor the model for specific tasks like entity extraction, summarization, or creative generation. The notebook walked me through the process of tuning the model with the API, and I also learned that AI Studio supports creating and monitoring tuned models through a web UI using data from Google Sheets, Drive, or my files.
 
 ## 📝 Natural Language Processing Methods
 
