@@ -93,8 +93,13 @@ The objective of this project is to investigate the potential of the application
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Gazmaths/Landslide-detection-using-semantic-segmentation-algorithms/blob/main/Landslide%20Detection%20Using%20Semantic%20Segmentation%20Algorithms.ipynb)
 <img src="https://gazmaths.github.io/assets/images/segmentationmodel.png" width="680">{: .align-center}
 ## 🤖 Generative AI Applications and Building Chatbots with Pre-trained LLM Models
+## Creating EDU-Navigator for HBCU students(HP Future of Work Academy (FOWA) Challenge)
+
+I worked as a software developer on a team named "20," consisting of 5 members, to develop the EDU-Navigator chatbot for HBCU students. The chatbot, powered by the Chat-GPT turbo engine, was designed to help students navigate their educational journey. Our team received an honorable mention in the HP Future of Work Academy (FOWA) Challenge.
 ### 5-Day Gen AI Intensive Course with Google
+
 I took part in the Google 5-Day Generative AI intensive training, which included a hands-on assignment to be completed each day on Kaggle. 
+
 **Day 1 - Prompting**
 
 I worked through example prompts and techniques using Python SDK and AI Studio, which were further explained in the Prompting whitepaper. I also got inspiration by exploring various apps built using the Gemini family of models.
