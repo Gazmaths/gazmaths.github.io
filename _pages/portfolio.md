@@ -96,6 +96,7 @@ The objective of this project is to investigate the potential of the application
 ## Creating EDU-Navigator for HBCU students(HP Future of Work Academy (FOWA) Challenge)
 
 I worked as a software developer on a team named "20," consisting of 5 members, to develop the EDU-Navigator chatbot for HBCU students. The chatbot, powered by the Chat-GPT turbo engine, was designed to help students navigate their educational journey. Our team received an honorable mention in the HP Future of Work Academy (FOWA) Challenge.
+
 ### 5-Day Gen AI Intensive Course with Google
 
 I took part in the Google 5-Day Generative AI intensive training, which included a hands-on assignment to be completed each day on Kaggle. 
@@ -103,10 +104,13 @@ I took part in the Google 5-Day Generative AI intensive training, which included
 **Day 1 - Prompting**
 
 I worked through example prompts and techniques using Python SDK and AI Studio, which were further explained in the Prompting whitepaper. I also got inspiration by exploring various apps built using the Gemini family of models.
+
 **Day 1 - Evaluation and structured output**
 
 *I worked on evaluating the performance of LLMs in real-world tasks, focusing on how to assess their outputs effectively
+
 **Day 2 - Classifying embeddings with Keras**
+
 I learned how to classify embeddings using Keras and the Gemini API.
 
 **Day 2 - Embeddings and similarity scores**
@@ -122,7 +126,7 @@ I explored embeddings and similarity scores using the Gemini API. In this notebo
  On Day 3 of the Google-Kaggle 5-day Generative AI course, I explored function calling with the Gemini API. I learned how to build a chat interface over a local database using the Gemini API’s automatic function-calling feature. While the example was a simple, toy project without real-world safety and security constraints, it demonstrated how to easily integrate AI chat capabilities into existing applications.
  
  **Day 4 - Fine-tuning a custom model**
-On Day 4 of the Kaggle 5-day Generative AI course, I explored fine-tuning a custom model using the Gemini API. I focused on training the model to classify newsgroup posts into their respective categories. Fine-tuning allowed me to tailor the model for specific tasks like entity extraction, summarization, or creative generation. The notebook walked me through the process of tuning the model with the API, and I also learned that AI Studio supports creating and monitoring tuned models through a web UI using data from Google Sheets, Drive, or my own files.
+On Day 4 of the Kaggle 5-day Generative AI course, I explored fine-tuning a custom model using the Gemini API. I focused on training the model to classify newsgroup posts into their respective categories. Fine-tuning allowed me to tailor the model for specific tasks like entity extraction, summarization, or creative generation. The notebook walked me through the process of tuning the model with the API, and I also learned that AI Studio supports creating and monitoring tuned models through a web UI using data from Google Sheets, Drive, or my files.
 
 ## 📝 Natural Language Processing Methods
 
