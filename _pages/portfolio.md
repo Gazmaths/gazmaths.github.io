@@ -102,7 +102,7 @@ I worked as a software developer on a team named "20," consisting of 5 members, 
 I participated in the Google 5-Day Generative AI intensive training, which included a hands-on assignment each day on Kaggle.
 
 #### Day 1 - Prompting
-I worked through example prompts and techniques using the Python SDK and AI Studio, with further insights provided in the Prompting whitepaper. I also explored various apps built with the Gemini family of models for inspiration. [Notebook](https://www.kaggle.com/code/gazaliagboola/day-1-prompting) ![Notebook](https://img.shields.io/badge/Notebook-1-blue)
+I worked through example prompts and techniques using the Python SDK and AI Studio, with further insights provided in the Prompting whitepaper. I also explored various apps built with the Gemini family of models for inspiration. (https://img.shields.io/badge/Notebook-1-blue) ![Notebook](https://www.kaggle.com/code/gazaliagboola/day-1-prompting)
 
 #### Day 1 - Evaluation and Structured Output
 I focused on evaluating the performance of LLMs in real-world tasks, specifically learning how to assess and measure their outputs effectively. [Notebook](https://www.kaggle.com/code/gazaliagboola/day-1-evaluation-and-structured-output) ![Notebook](https://img.shields.io/badge/Notebook-1-blue)
