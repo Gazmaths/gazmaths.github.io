@@ -100,14 +100,19 @@ I worked through example prompts and techniques using Python SDK and AI Studio, 
 **Day 1 - Evaluation and structured output**
 *I worked on evaluating the performance of LLMs in real-world tasks, focusing on how to assess their outputs effectively
 **Day 2 - Classifying embeddings with Keras**
+
 *I learned how to classify embeddings using Keras and the Gemini API.
 **Day 2 - Embeddings and similarity scores**
 *I explored embeddings and similarity scores using the Gemini API. In this notebook, I used the embedding endpoint of the Gemini API to analyze similarity scores between different data points.
+
 **Day 2 - Document Q&A with RAG**
  *I learned how to use Retrieval Augmented Generation (RAG) with Chroma to enhance Document Q&A. I created a vector database with the Gemini API, enabling the retrieval of relevant information to generate tailored answers. This approach addresses the limitations of LLMs by allowing them to process external, previously unseen data and generate responses based on it using Chroma for efficient document searching and embedding.
+ 
  **Day 3 - Function calling with the Gemini API**
  *On Day 3 of the Google-Kaggle 5-day Generative AI course, I explored function calling with the Gemini API. I learned how to build a chat interface over a local database using the Gemini API’s automatic function-calling feature. While the example was a simple, toy project without real-world safety and security constraints, it demonstrated how to easily integrate AI chat capabilities into existing applications.
+ 
  **Day 4 - Fine-tuning a custom model**
 *On Day 4 of the Kaggle 5-day Generative AI course, I explored fine-tuning a custom model using the Gemini API. I focused on training the model to classify newsgroup posts into their respective categories. Fine-tuning allowed me to tailor the model for specific tasks like entity extraction, summarization, or creative generation. The notebook walked me through the process of tuning the model with the API, and I also learned that AI Studio supports creating and monitoring tuned models through a web UI using data from Google Sheets, Drive, or my own files.
+
 ## 📝 Natural Language Processing Methods
 
