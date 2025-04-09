@@ -97,8 +97,6 @@ The objective of this project is to investigate the potential of the application
 
 I worked as a software developer on a team named "20," consisting of 5 members, to develop the EDU-Navigator chatbot for HBCU students. The chatbot, powered by the Chat-GPT turbo engine, was designed to help students navigate their educational journey. Our team received an honorable mention in the HP Future of Work Academy (FOWA) Challenge.
 
-### 5-Day Gen AI Intensive Course with Google
-
 ### Google 5-Day Generative AI Intensive Training
 
 I participated in the Google 5-Day Generative AI intensive training, which included a hands-on assignment each day on Kaggle.
