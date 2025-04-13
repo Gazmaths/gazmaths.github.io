@@ -8,7 +8,7 @@ toc_icon: "bookmark"
 ---
 *Updated: 04/01/2025*
 ## 🧠Machine Learning Models Applications
-### Automatic Model Hyperparameters GridSearch for Classification Models Using Python and Streamlit
+### 🔍 Automatic Model Hyperparameters GridSearch for Classification Models Using Python and Streamlit
 
 * This project is a modular machine learning pipeline built using Python and Streamlit. Through an intuitive web interface, users can preprocess data, explore datasets, train machine learning models, and make predictions on unseen data. The pipeline supports a machine learning workflow, from data cleaning to model evaluation and prediction.
 [![View the python scripts on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Gazmaths/ML_classification_app)
