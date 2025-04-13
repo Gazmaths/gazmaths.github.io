@@ -91,7 +91,7 @@ For more details, refer to the full paper:
 
 ## 👁️‍🗨️ Computer Vision Methods
 ### Automatic Landslide Detection using a Fine-Tuned YOLOv11 Model
-I employed the YOLOv4 model from Ultralytics, utilizing a transfer learning approach with a high-resolution Roboflow landslide dataset, to improve landslide detection accuracy in Polk County, NC, and to provide valuable insights for developing effective hazard mitigation strategies.
+I employed the YOLOv11 model from Ultralytics, utilizing a transfer learning approach with a high-resolution Roboflow landslide dataset, to improve landslide detection accuracy in Polk County, NC, and to provide valuable insights for developing effective hazard mitigation strategies.
 <img src="https://gazmaths.github.io/assets/images/Yolo11detection.png" width="680">{: .align-center}
 
 ### Landslide Identification using Segmentation Models
