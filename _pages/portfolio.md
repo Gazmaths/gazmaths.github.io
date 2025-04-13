@@ -79,7 +79,7 @@ This web-based app allows users to easily upload CSV files and perform explorato
 [![View the python scripts on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Gazmaths/data_analysis_app)
 [![Streamlit App](https://img.shields.io/badge/Streamlit-Visit_App-red?logo=streamlit&logoColor=white)](https://gazal1app.streamlit.app/)
 
-### Optimizing Landslide Susceptibility Models through Ensemble Classification Techniques
+### 🚀 Optimizing Landslide Susceptibility Models through Ensemble Classification Techniques
 This study aims to assess how well machine learning models perform on landslide susceptibility mapping. For Polk County, Western North Carolina, seven distinct models were examined for landslide susceptibility modeling: Support Vector Machine (SVM), Logistic Regression (LR), Linear Discriminant Analysis (LDA), Random Forest (RF), and Extreme Gradient Boosting (XGBoost) and ensemble techniques (Stacking and Weighted Average). A dataset of 1215 historical landslide events and 1215 non-landslide sites, as well as fourteen geographic data layers, is used to evaluate these models.
 Metrics including accuracy, F1-score, Kappa score, and AUC-ROC are used to assess these models' performance, with a focus on how non-landslide random sampling affects model outcomes.
 
@@ -90,20 +90,20 @@ For more details, refer to the full paper:
 [Optimizing landslide susceptibility mapping using machine learning and geospatial techniques](https://www.sciencedirect.com/science/article/pii/S1574954124001250)
 
 ## 👁️‍🗨️ Computer Vision Methods
-### Automatic Landslide Detection using a Fine-Tuned YOLOv11 Model
+### ⚠️ Automatic Landslide Detection using a Fine-Tuned YOLOv11 Model
 I employed the YOLOv11 model from Ultralytics, utilizing a transfer learning approach with a high-resolution Roboflow landslide dataset, to improve landslide detection accuracy in Polk County, NC, and to provide valuable insights for developing effective hazard mitigation strategies.
 <img src="https://gazmaths.github.io/assets/images/Yolo11detection.png" width="680">{: .align-center}
 
-### Landslide Identification using Segmentation Models
+### ⚠️ Landslide Identification using Segmentation Models
 The objective of this project is to investigate the potential of the application of deep learning algorithms to analyze remote sensing data for landslide detection, utilizing an open-source dataset obtained from Meena et al. 2023.
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Gazmaths/Landslide-detection-using-semantic-segmentation-algorithms/blob/main/Landslide%20Detection%20Using%20Semantic%20Segmentation%20Algorithms.ipynb)
 <img src="https://gazmaths.github.io/assets/images/segmentationmodel.png" width="680">{: .align-center}
 ## 🤖 Generative AI Applications and Building Chatbots with Pre-trained LLM Models
-### Creating EDU-Navigator for HBCU students(HP Future of Work Academy (FOWA) Challenge)
+### 💡 Creating EDU-Navigator for HBCU students(HP Future of Work Academy (FOWA) Challenge)
 
 I worked as a software developer on a team named "20," consisting of 5 members, to develop the EDU-Navigator chatbot for HBCU students. The chatbot, powered by the Chat-GPT turbo engine, was designed to help students navigate their educational journey. Our team received an honorable mention in the HP Future of Work Academy (FOWA) Challenge.
 
-### Google 5-Day Generative AI Intensive Training
+### 📚 Google 5-Day Generative AI Intensive Training
 
 I participated in the Google 5-Day Generative AI intensive training, which included a hands-on assignment each day on Kaggle.
 
