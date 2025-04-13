@@ -54,6 +54,12 @@ This app can be deployed to Streamlit Cloud for easy sharing and accessibility.
 
 <img src="https://raw.githubusercontent.com/Gazmaths/ML_classification_app/main/streamlit.png" width="580">
 
+### ✅ Machine Learning Course Project: Detection of Anomalies in Credit Card Transactions Using Supervised and Unsupervised Learning Techniques
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/Gazmaths/Credit-card-anomaly-detection-using-machine-learning-/blob/main/Anomalies_detection_in_credit_card_transactions.ipynb)
+[![Read the full paper project submission](https://img.shields.io/badge/Google%20Drive-View_on_Google_Drive-blue?logo=GoogleDrive)](https://drive.google.com/file/d/161G3yPrFjx5xYRpna_SIb3poLg6aMGTv/view?usp=drive_link)
+
+Abstract -- In the financial sector, financial fraud is a rising problem with serious effects. The identification of credit card fraud in online transactions was greatly helped by big data analysis. Due to two main factors—first, the profiles of legitimate and fraudulent behavior change often, and second, credit card
+fraud data sets are extremely skewed—detection of credit card fraud, a data mining challenge, becomes difficult. The dataset sampling strategy, variable choice, and detection methods employed all have significant impacts on the effectiveness of fraud detection in credit card transactions. The performance of isolation forest (iForest), local outliers’ factor(LOF), and Logistic regression (LR) on highly skewed credit card fraud data are examined in this study. The model was constructed using real data from European cardholders, and under-sampling methods were also applied. The three models were implemented in Python, and the effectiveness of the methods is assessed based on accuracy, recall, precision, and the Kappa score coefficient. The outcomes indicate that Isolation Forest has the best accuracy at 99.8% in detecting outliers.
 
 ### 📊 Interactive Data Analysis App Using Python and Streamlit
 
@@ -74,10 +80,10 @@ This web-based app allows users to easily upload CSV files and perform explorato
 [![Streamlit App](https://img.shields.io/badge/Streamlit-Visit_App-red?logo=streamlit&logoColor=white)](https://gazal1app.streamlit.app/)
 
 ### Optimizing Landslide Susceptibility Models through Ensemble Classification Techniques
-This study aims to assess how well machine learning models perform on landslide susceptibility mapping. For Polk County, Western North Carolina, seven distinct models were examined for landslide susceptibility modeling: Support Vector Machine (SVM), Logistic Regression (LR), Linear Discriminant Analysis (LDA), Random Forest (RF), and Extreme Gradient Boosting (XGBoost) and ensemble techniques (Stacking and Weighted Average). A dataset of 1215 historical landslide events and 1215 non-landslide sites, and fourteen geographic data layers, is used to evaluate these models.
+This study aims to assess how well machine learning models perform on landslide susceptibility mapping. For Polk County, Western North Carolina, seven distinct models were examined for landslide susceptibility modeling: Support Vector Machine (SVM), Logistic Regression (LR), Linear Discriminant Analysis (LDA), Random Forest (RF), and Extreme Gradient Boosting (XGBoost) and ensemble techniques (Stacking and Weighted Average). A dataset of 1215 historical landslide events and 1215 non-landslide sites, as well as fourteen geographic data layers, is used to evaluate these models.
 Metrics including accuracy, F1-score, Kappa score, and AUC-ROC are used to assess these models' performance, with a focus on how non-landslide random sampling affects model outcomes.
 
-With an AUC-ROC of 91.8% for the buffer-based scenario and 99.4% for the slope threshold scenario, the weighted average ensemble of the five models yielded the best results. This demonstrates the effectiveness of machine learning in landslide susceptibility mapping, offering a strong instrument for pinpointing high-risk regions and guiding plans for disaster risk reduction. 
+The buffer-based scenario's AUC-ROC was 91.8%, and the slope threshold scenario's was 99.4%. The weighted average ensemble of the five models yielded the best results. This demonstrates the effectiveness of machine learning in landslide susceptibility mapping, offering a strong instrument for pinpointing high-risk regions and guiding plans for disaster risk reduction. 
 For more details, refer to the full paper:  
 <img src="https://gazmaths.github.io/assets/images/optimizingmetric.png" width="580">{: .align-center}
 <img src="https://gazmaths.github.io/assets/images/optimizingWA.png" width="580">{: .align-center}
