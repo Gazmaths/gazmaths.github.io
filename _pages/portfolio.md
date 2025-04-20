@@ -7,6 +7,22 @@ toc_icon: "bookmark"
 
 ---
 *Updated: 04/01/2025*
+## 📊Data Science and Analytics
+### 🚗 CarMax Hackathon Using Python Visualization, Machine Learning Tools, and Streamlit
+**Problem Statement**
+Many customers decide to trade in their current vehicle when purchasing a car at CarMax. 
+What does a customer's appraised vehicle tell us about the vehicle they will ultimately purchase? How can CarMax use this information to improve business operations and provide customers with a personalized shopping experience?
+**Solution**
+I created an interactive app that visualizes CarMax's data, highlighting the distribution of cars across various states, makes, and models. Additionally, I built a Random Forest classifier using encoded data to predict customers' likelihood of switching car makes, helping CarMax optimize its offerings and customer experience. The model performs well in identifying customers who switch car makes, but has lower precision for those who stay with the same make due to an imbalanced dataset. Future improvements could involve applying techniques like oversampling, undersampling, or SMOTE to mitigate the effects of class imbalance and improve model performance for customers who remain with the same make. This insight could guide targeted marketing strategies.
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;">
+  <iframe src="https://www.loom.com/embed/93ea07059672493cb156ba00e0d2db31?sid=ebfc0aa3-b2c1-4b0b-9ab7-e199b13cbda9" 
+          frameborder="0" 
+          webkitallowfullscreen mozallowfullscreen allowfullscreen 
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
+
 ## 🧠Machine Learning Models Applications
 ### 🔍 Automatic Model Hyperparameters GridSearch for Classification Models Using Python and Streamlit
 
