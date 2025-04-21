@@ -12,6 +12,7 @@ toc_icon: "bookmark"
 **Problem Statement**
 Many customers decide to trade in their current vehicle when purchasing a car at CarMax. 
 What does a customer's appraised vehicle tell us about the vehicle they will ultimately purchase? How can CarMax use this information to improve business operations and provide customers with a personalized shopping experience?
+
 **Solution**
 I created an interactive app that visualizes CarMax's data, highlighting the distribution of cars across various states, makes, and models. Additionally, I built a Random Forest classifier using encoded data to predict customers' likelihood of switching car makes, helping CarMax optimize its offerings and customer experience. The model performs well in identifying customers who switch car makes, but has lower precision for those who stay with the same make due to an imbalanced dataset. Future improvements could involve applying techniques like oversampling, undersampling, or SMOTE to mitigate the effects of class imbalance and improve model performance for customers who remain with the same make. This insight could guide targeted marketing strategies.
 
