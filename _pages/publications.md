@@ -1,6 +1,9 @@
 ---
-layout: default
 title: "Publications"
+permalink: /publications/
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "bookmark"
 ---
 
 # My Publications
