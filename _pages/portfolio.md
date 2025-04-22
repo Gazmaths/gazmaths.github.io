@@ -48,7 +48,6 @@ requirements.txt: List of dependencies for the project.
 * pip install -r requirements.txt
 * Start the Streamlit app:
 * bash
-* Copy code
 * streamlit run classification_app.py
 * Follow the steps in the app to upload data, preprocess, explore, train models, and make predictions.
 
