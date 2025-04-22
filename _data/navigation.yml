@@ -7,7 +7,7 @@ main:
   - title: "Resources"
     url: /resources/   
   - title: "Publications"
-    url: /publications/
+    url: /_pages/publications/
   - title: "CV"
     url: /cv/
   - title: "About"
