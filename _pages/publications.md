@@ -15,7 +15,7 @@ toc_icon: "bookmark"
 ## 2. Ensemble Machine Learning Technique for Optimizing Landslide Susceptibility Mapping
 - *Agboola, G., Hashemi-Beni, L., Elbayoumi, T., & Thompson, G. (2024). Ecological Informatics, 81, 102583.*
 
-[Read Full Publication](https://ieeexplore.ieee.org/abstract/document/10965602)
+[Read Full Publication](https://www.sciencedirect.com/science/article/pii/S1574954124001250)
 
 ## 3. Harnessing Artificial Intelligence for Early Detection
 - *Isiaka, A. B., Anakwenze, V. N., Ilodinso, C. R., et al. (2024). International Journal of Innovative Research and Development, 13, 52-65.*
