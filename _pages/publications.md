@@ -23,6 +23,6 @@ toc_icon: "bookmark"
 [Read Full Publication](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4876752)
 
 ## 4. The menace of ghost workers, job racketeers, and creators of online job offer scam sites on unemployment in Nigeria: a mathematical model analysis and control
-- *O. M., Ogunmiloro, A. A., Obayomi, G. O. Agboola (2024). Quality & Quantity, vol. 5, No. 2, p. 34.*
+- *Ogunmiloro, O. M., Obayomi, A. A., Agboola, G. O. (2024). Quality & Quantity, vol. 5, No. 2, p. 34.*
 
 [Read Full Publication](https://link.springer.com/article/10.1007/s43069-024-00308-w)
