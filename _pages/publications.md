@@ -5,7 +5,7 @@ title: Publications
 
 # My Publications
 ## 1. Adaptive Input Sampling for Efficient Object Detection in High-Resolution Traffic Monitoring Images
-- * Gebre, T,  Wasehun, E, Dorbu, F.,  Agboola,G, Beni, L. H., Ali, K (2025)I. EEE Access, *
+- *Gebre, T,  Wasehun, E, Dorbu, F.,  Agboola,G, Beni, L. H., Ali, K (2025). IEEE Access.*
 ## 2. Ensemble Machine Learning Technique for Optimizing Landslide Susceptibility Mapping
 - *Agboola, G., Beni, L. H., Elbayoumi, T., & Thompson, G. (2024). Ecological Informatics, 81, 102583.*
 
