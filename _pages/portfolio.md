@@ -8,20 +8,83 @@ toc_icon: "bookmark"
 ---
 *Updated: 04/01/2025*
 ## 📊Data Science and Analytics
+### 💻 Current and Emerging Technology Trends Among Developers: A Data Analysis of the 2019 Stack Overflow Survey
+**Introduction**
+This project draws insights from Stack Overflow’s Developer Survey, the world’s largest survey of its kind, with responses from nearly 90,000 developers worldwide. By analyzing both current and aspirational technologies used in the field, it uncovers key trends shaping the global developer landscape. The findings offer valuable demographic insights to inform hiring and training strategies, support data-driven decisions for technology investments, and guide developer upskilling initiatives. This analysis highlights global patterns and forecasts the future directions of the tech industry.
+
+**Methodology**
+🗂️ Data Collection Stack
+Extracted data from the Stack Overflow Developer Survey
+
+Retrieved job data using the GitHub Jobs API
+
+Employed web scraping and Python requests API calls to gather additional datasets
+
+🧹 Data Preparation
+Cleaning: Removed duplicates, handled missing values, and normalized the data
+
+Wrangling: Reshaped and merged multiple datasets to prepare for analysis
+
+📈 Exploratory Data Analysis (EDA)
+Analyzed distributions, detected outliers, and explored variable correlations
+
+Tools used: Python (Pandas, Matplotlib, Seaborn)
+
+📊 Data Visualization
+Visualized key distributions, relationships, and comparisons
+
+Built interactive dashboards to effectively communicate trends and findings
+
+📊 Dashboard Development
+Developed final dashboards using:
+
+IBM Cognos Dashboard Embedded (CDE)
+
+Google Looker Studio
+
+Focused on storytelling and actionable insight delivery
+
+**Result**
+<img src="https://gazmaths.github.io/assets/images/Dashboard_tab1.png" width="680">{: .align-center}
+
+![image](https://github.com/user-attachments/assets/4021856b-f317-422f-961b-aa2e738b7f54)
+
+![image](https://github.com/user-attachments/assets/d7b21fb8-cc3a-4d06-a70e-6007ac4a3da4)
+
+<img src="https://gazmaths.github.io/assets/images/Dashboard_tab2.png" width="680">{: .align-center}
+<img src="https://gazmaths.github.io/assets/images/Dashboard_tab3.png" width="680">{: .align-center}
+🔍 Insights from the Data
+🌐 Web Technologies Dominate
+Front-end technologies like JavaScript, TypeScript, HTML, and CSS remain at the forefront of developer usage, reinforcing their central role in modern software development.
+
+📈 Growth in Systems Languages
+Languages such as Go and Rust are seeing increased adoption, signaling a growing interest in performance-oriented and memory-safe programming paradigms.
+
+🔄 SQL and Python Remain Consistent
+As core languages for data manipulation and analysis, SQL and Python continue to demonstrate strong and steady relevance across multiple domains including data science, backend development, and automation.
+
+🧩 Key Takeaways & Recommendations
+Investing in technology training is crucial—particularly in developing countries—to bridge skill gaps and drive innovation.
+
+Continuous upskilling in web development languages ensures developers remain relevant in a fast-paced and ever-changing tech ecosystem.
+
+Developers should prioritize mastering in-demand technologies like PostgreSQL, Redis, Go, and Rust to enhance their competitiveness in the job market.
+
+The prevalence of open-source RDBMS underscores the importance of promoting and supporting open-source tools within developer communities to sustain collaboration and growth.
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Gazmaths/IBM-Data-Analytics-Capstone-Projects)
 ### 🚗 CarMax Hackathon Using Python Visualization, Machine Learning Tools, and Streamlit
 **Problem Statement**
 Many customers decide to trade in their current vehicle when purchasing a car at CarMax. 
-What does a customer's appraised vehicle tell us about the vehicle they will ultimately purchase? How can CarMax use this information to improve business operations and provide customers with a personalized shopping experience?
+What does a customer's appraised vehicle tell us about the vehicle they will ultimately purchase? How can CarMax utilize this information to enhance business operations and deliver a more personalized shopping experience to its customers?
 
 **Solution**
-I created an interactive app that visualizes CarMax's data, highlighting the distribution of cars across various states, makes, and models. Additionally, I built a Random Forest classifier using encoded data to predict customers' likelihood of switching car makes, helping CarMax optimize its offerings and customer experience. The model performs well in identifying customers who switch car makes, but has lower precision for those who stay with the same make due to an imbalanced dataset. Future improvements could involve applying techniques like oversampling, undersampling, or SMOTE to mitigate the effects of class imbalance and improve model performance for customers who remain with the same make. This insight could guide targeted marketing strategies.
+I created an interactive app that visualizes CarMax's data, highlighting the distribution of cars across various states, makes, and models. Additionally, I built a Random Forest classifier using encoded data to predict customers' likelihood of switching car makes, helping CarMax optimize its offerings and customer experience. The model performs well in identifying customers who switch car makes, but has lower precision for those who stay with the same make due to an imbalanced dataset. Future improvements could involve applying techniques such as oversampling, undersampling, or SMOTE to mitigate the effects of class imbalance and enhance model performance for customers who remain loyal to the same make. This insight could guide targeted marketing strategies.
 
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Gazmaths/carmax_analytics)
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Visit_App-red?logo=streamlit&logoColor=white)](https://carmaxanalytics.streamlit.app/)
 
 <iframe width="600" height="450" src="https://lookerstudio.google.com/embed/reporting/d1cb1221-836f-40eb-b019-15e23b693c08/page/WZXHF" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
-
-
-[![View the python scripts on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Gazmaths/carmax_analytics)
-[![Streamlit App](https://img.shields.io/badge/Streamlit-Visit_App-red?logo=streamlit&logoColor=white)](https://carmaxanalytics.streamlit.app/)
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/93ea07059672493cb156ba00e0d2db31?sid=e5a9f021-cd57-453a-9aa8-51f4e1b4894d" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
