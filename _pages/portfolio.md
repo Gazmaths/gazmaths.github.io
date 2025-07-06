@@ -77,7 +77,7 @@ Languages such as Go and Rust are seeing increased adoption, signaling a growing
 * The prevalence of open-source RDBMS underscores the importance of promoting and supporting open-source tools within developer communities to sustain collaboration and growth.
 
 Read the full project report
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Gazmaths/IBM-Data-Analytics-Capstone-Projects)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Gazmaths/IBM-Data-Analytics-Capstone-Projects/blob/main/IBM%20Capstone%20Project%20Report%20Presentation.pptx)
 
 ### 🚗 CarMax Hackathon Using Python Visualization, Machine Learning Tools, and Streamlit
 **Problem Statement**
