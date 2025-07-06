@@ -46,31 +46,27 @@ Focused on storytelling and actionable insight delivery
 
 **Result**
 <img src="https://gazmaths.github.io/assets/images/Dashboard_tab1.png" width="680">{: .align-center}
-
-![image](https://github.com/user-attachments/assets/4021856b-f317-422f-961b-aa2e738b7f54)
-
-![image](https://github.com/user-attachments/assets/d7b21fb8-cc3a-4d06-a70e-6007ac4a3da4)
-
 <img src="https://gazmaths.github.io/assets/images/Dashboard_tab2.png" width="680">{: .align-center}
 <img src="https://gazmaths.github.io/assets/images/Dashboard_tab3.png" width="680">{: .align-center}
-🔍 Insights from the Data
-🌐 Web Technologies Dominate
-Front-end technologies like JavaScript, TypeScript, HTML, and CSS remain at the forefront of developer usage, reinforcing their central role in modern software development.
 
-📈 Growth in Systems Languages
-Languages such as Go and Rust are seeing increased adoption, signaling a growing interest in performance-oriented and memory-safe programming paradigms.
+**🔍 Insights from the Data**
+* 🌐 Web Technologies Dominate
+* Front-end technologies like JavaScript, TypeScript, HTML, and CSS remain at the forefront of developer usage, reinforcing their central role in modern software development.
 
-🔄 SQL and Python Remain Consistent
-As core languages for data manipulation and analysis, SQL and Python continue to demonstrate strong and steady relevance across multiple domains including data science, backend development, and automation.
+* 📈 Growth in Systems Languages
+* Languages such as Go and Rust are seeing increased adoption, signaling a growing interest in performance-oriented and memory-safe programming paradigms.
 
-🧩 Key Takeaways & Recommendations
-Investing in technology training is crucial—particularly in developing countries—to bridge skill gaps and drive innovation.
+* 🔄 SQL and Python Remain Consistent
+* As core languages for data manipulation and analysis, SQL and Python continue to demonstrate strong and steady relevance across multiple domains including data science, backend development, and automation.
 
-Continuous upskilling in web development languages ensures developers remain relevant in a fast-paced and ever-changing tech ecosystem.
+**🧩 Key Takeaways & Recommendations**
+* Investing in technology training is crucial—particularly in developing countries—to bridge skill gaps and drive innovation.
 
-Developers should prioritize mastering in-demand technologies like PostgreSQL, Redis, Go, and Rust to enhance their competitiveness in the job market.
+* Continuous upskilling in web development languages ensures developers remain relevant in a fast-paced and ever-changing tech ecosystem.
 
-The prevalence of open-source RDBMS underscores the importance of promoting and supporting open-source tools within developer communities to sustain collaboration and growth.
+* Developers should prioritize mastering in-demand technologies like PostgreSQL, Redis, Go, and Rust to enhance their competitiveness in the job market.
+
+* The prevalence of open-source RDBMS underscores the importance of promoting and supporting open-source tools within developer communities to sustain collaboration and growth.
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Gazmaths/IBM-Data-Analytics-Capstone-Projects)
 ### 🚗 CarMax Hackathon Using Python Visualization, Machine Learning Tools, and Streamlit
 **Problem Statement**
