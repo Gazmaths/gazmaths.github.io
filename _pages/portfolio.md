@@ -10,10 +10,11 @@ toc_icon: "bookmark"
 ## 📊Data Science and Analytics
 ### 💻 Current and Emerging Technology Trends Among Developers: A Data Analysis of the 2019 Stack Overflow Survey
 **Introduction**
-This project draws insights from Stack Overflow’s Developer Survey, the world’s largest survey of its kind, with responses from nearly 90,000 developers worldwide. By analyzing both current and aspirational technologies used in the field, it uncovers key trends shaping the global developer landscape. The findings offer valuable demographic insights to inform hiring and training strategies, support data-driven decisions for technology investments, and guide developer upskilling initiatives. This analysis highlights global patterns and forecasts the future directions of the tech industry.
+This project draws insights from Stack Overflow’s Developer Survey, one of the world’s largest surveys of its kind, with responses from nearly 90,000 developers worldwide. By analyzing both current and aspirational technologies used in the field, it uncovers key trends shaping the global developer landscape. The findings offer valuable demographic insights to inform hiring and training strategies, support data-driven decisions for technology investments, and guide developer upskilling initiatives. This analysis highlights global patterns and forecasts the future directions of the tech industry.
 
 **Methodology**
-* 🗂️ Data Collection Stack
+* 🗂️ Data Collection 
+  
 Extracted data from the Stack Overflow Developer Survey
 
 Retrieved job data using the GitHub Jobs API
@@ -21,21 +22,25 @@ Retrieved job data using the GitHub Jobs API
 Employed web scraping and Python requests API calls to gather additional datasets
 
 * 🧹 Data Preparation
+  
 Cleaning: Removed duplicates, handled missing values, and normalized the data
 
 Wrangling: Reshaped and merged multiple datasets to prepare for analysis
 
 * 📈 Exploratory Data Analysis (EDA)
+  
 Analyzed distributions, detected outliers, and explored variable correlations
 
 Tools used: Python (Pandas, Matplotlib, Seaborn)
 
 * 📊 Data Visualization
+  
 Visualized key distributions, relationships, and comparisons
 
 Built interactive dashboards to effectively communicate trends and findings
 
 * 📊 Dashboard Development
+  
 Developed final dashboards using:
 
 IBM Cognos Dashboard Embedded (CDE)
@@ -51,12 +56,15 @@ Focused on storytelling and actionable insight delivery
 
 **🔍 Insights from the Data**
 * 🌐 Web Technologies Dominate
+  
 Front-end technologies like JavaScript, TypeScript, HTML, and CSS remain at the forefront of developer usage, reinforcing their central role in modern software development.
 
 * 📈 Growth in Systems Languages
+  
 Languages such as Go and Rust are seeing increased adoption, signaling a growing interest in performance-oriented and memory-safe programming paradigms.
 
 * 🔄 SQL and Python Remain Consistent
+  
  As core languages for data manipulation and analysis, SQL and Python continue to demonstrate strong and steady relevance across multiple domains including data science, backend development, and automation.
 
 **🧩 Key Takeaways & Recommendations**
@@ -68,8 +76,9 @@ Languages such as Go and Rust are seeing increased adoption, signaling a growing
 
 * The prevalence of open-source RDBMS underscores the importance of promoting and supporting open-source tools within developer communities to sustain collaboration and growth.
 
-Read full project report
+Read the full project report
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Gazmaths/IBM-Data-Analytics-Capstone-Projects)
+
 ### 🚗 CarMax Hackathon Using Python Visualization, Machine Learning Tools, and Streamlit
 **Problem Statement**
 Many customers decide to trade in their current vehicle when purchasing a car at CarMax. 
