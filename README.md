@@ -1,3 +1,6 @@
+Welcome to my personal website repository! This site is an online portfolio showcasing my work, including my biography, skills, publications, and research projects.
+
+I used the theme below for the website creation. If you wish to learn more, please read through.
 # [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
