@@ -22,7 +22,10 @@ As Minnesota’s traffic volume continues to rise, effective management strategi
 
 **Executive Report**
 
+Check out the detailed executive summary of this project here:
+
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Gazmaths/Google-Business-Intelligence-Analytics/blob/main/Minnesota%20Interstate%20Traffic%20Volume%20Analysis.pptx)
+
 ### 💻 Current and Emerging Technology Trends Among Developers: A Data Analysis of the 2019 Stack Overflow Survey
 **Introduction**
 This project draws insights from Stack Overflow’s Developer Survey, one of the world’s largest surveys of its kind, with responses from nearly 90,000 developers worldwide. By analyzing both current and aspirational technologies used in the field, it uncovers key trends shaping the global developer landscape. The findings offer valuable demographic insights to inform hiring and training strategies, support data-driven decisions for technology investments, and guide developer upskilling initiatives. This analysis highlights global patterns and forecasts the future directions of the tech industry.
