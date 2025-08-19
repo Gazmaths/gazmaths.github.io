@@ -15,6 +15,7 @@ As Minnesota’s traffic volume continues to rise, effective management strategi
 
 
 **Tableau Dashboard**
+
 <img src="https://gazmaths.github.io/assets/images/Minnesota_dashboard.png" width="680">{: .align-center}
 
 [![View on Tableau](https://img.shields.io/badge/Tableau-View_on_Tableau-orange?logo=tableau)](https://public.tableau.com/views/TrafficAnalysisExemplar/Dashboard3?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
