@@ -24,14 +24,22 @@ toc_icon: "bookmark"
 -	Researched causal inference techniques in disaster management and built knowledge graphs for evacuation systems
 
 ### FrieslandCampina WAMCO
+***Credit Control Manager***
+
+*Aug. 2021 – Dec. 2021, Ikeja, Nigeria*
+
+- Performed credit risk modeling, customer risk exposure analysis, and maintained a 15-day overdue below 10% of total accounts receivable
+-	Automated financial and operational reporting, improving process efficiency across finance, sales, and supply chain units
+-	Partnered with supply chain teams and sales teams to analyze trends and generate business insights
+
+### FrieslandCampina WAMCO
 ***Commercial Data Analyst***
 
-*Feb. 2020 – Dec. 2021, Ikeja, Nigeria*
+*Feb. 2020 – July 2021, Ikeja, Nigeria*
 
-- Effectively monitored a credit control system with the supervision of commercial control manager and in collaboration with sales, finance, and executive team members to drive above 96% of payment to invoice ratio in 2021
--	Analyzed customer credit reports and communicated decisions to the appropriate personnel in a timely manner which effectively maintained overdue of above 15days at below 18% of total account receivable
--	Optimized forecasting & demand planning, improving cash flow and credit risk mitigation
-- Automated customer payment analysis using data that increased revenue by 20% in 2020
+- Developed data visualization solutions (Power BI, SQL) for executive reporting, increasing decision speed and revenue by 20%
+-	Built regression and ARIMA models for demand forecasting, improving forecast accuracy and reducing costs
+-	Automated incentive and sales reporting using Python, advanced Excel, and SQL, improving decision speed
 
 ### FrieslandCampina WAMCO
 ***Business Support Analyst***
@@ -48,9 +56,9 @@ toc_icon: "bookmark"
 
 *July 2024 - Sept 2024*
 
-In two month research about building Edu-Navigator chatbot for HBCU students, worked as a software developer to develop AI-powered chatbot for HBCU students to navigate through their education journey.
+In a three-month research project about building an Edu-Navigator chatbot for HBCU students, I worked as a software developer to develop an AI-powered chatbot for HBCU students to navigate through their education journey.
 
-- Presented chatbot app before HP panel and won the honorable mention. 
+- Presented chatbot app before the HP panel and won the honorable mention. 
 
 ## 🎓 Education
 ### North Carolina Agricultural and Technical State University
@@ -68,7 +76,8 @@ All my projects and research can be found in my portfolio. I frequenty publish p
 ## 🤖 Skills
 - **Programming:** Python (NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow, NLTK, Scikit-learn), Big Data (Spark), R, SQL.
 - **Others:** 
-  - Cloud Computing: AWS, Docker, MLFlow, MLOPs
+  - Cloud Computing:  GCP, AWS, Docker, BigQuery, PostgreSQL, MySQL, Git, Docker, Snowflake
   - Visualization: Tableau, Power BI,  Matplotlib, Seaborn, Streamlit-python
   - Statistical Tools: SAS, Advanced Excel, SAP
   - Version Control: Git, CI/CD
+  
