@@ -5,7 +5,7 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "bookmark"
 ---
-[Download Resume](https://gazmaths.github.io/files/GOAgboolamarch-resume.pdf){: .btn .btn--info}
+[Download Resume](https://gazmaths.github.io/files/Resume.pdf){: .btn .btn--info}
 
 *Updated: 03/31/2025*
 
