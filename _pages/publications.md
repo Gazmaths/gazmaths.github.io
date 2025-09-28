@@ -8,7 +8,7 @@ toc_icon: "bookmark"
 
 # My Publications
 ## 1. Adaptive Input Sampling for Efficient Object Detection in High-Resolution Traffic Monitoring Images
-- *Gebre, T.,  Wasehun, E., Dorbu, F.,  Agboola,G., Hashemi-Beni, L., Ali, K. (2025). IEEE Access.*
+- *Gebre, T.,  Wasehun, E., Dorbu, F.,  Agboola, G., Hashemi-Beni, L., Ali, K. (2025). IEEE Access.*
 
 [Read Full Publication](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10965602)
   
@@ -17,7 +17,7 @@ toc_icon: "bookmark"
 
 [Read Full Publication](https://www.sciencedirect.com/science/article/pii/S1574954124001250)
 
-## 3. Harnessing Artificial Intelligence for Early Detection
+## 3. Harnessing Artificial Intelligence for Early Detection and Management of Infectious Disease Outbreaks
 - *Isiaka, A. B., Anakwenze, V. N., Ilodinso, C. R., et al. (2024). International Journal of Innovative Research and Development, 13, 52-65.*
 
 [Read Full Publication](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4876752)
@@ -26,3 +26,4 @@ toc_icon: "bookmark"
 - *Ogunmiloro, O. M., Obayomi, A. A., Agboola, G. O. (2024). Quality & Quantity, vol. 5, No. 2, p. 34.*
 
 [Read Full Publication](https://link.springer.com/article/10.1007/s43069-024-00308-w)
+
