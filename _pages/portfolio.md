@@ -55,7 +55,7 @@ Tools used: Python (Pandas, Matplotlib, Seaborn)
   
 Visualized key distributions, relationships, and comparisons
 
-Built interactive dashboards to effectively communicate trends and findings
+Built interactive dashboards to communicate trends and findings effectively
 
 * 📊 Dashboard Development
   
@@ -79,7 +79,7 @@ Front-end technologies, such as JavaScript, TypeScript, HTML, and CSS, remain at
 
 * 📈 Growth in Systems Languages
   
-Languages such as Go and Rust are seeing increased adoption, signaling a growing interest in performance-oriented and memory-safe programming paradigms.
+Languages such as Go and Rust are seeing increased adoption, signaling growing interest in performance-oriented, memory-safe programming paradigms.
 
 * 🔄 SQL and Python Remain Consistent
   
@@ -204,6 +204,8 @@ The objective of this project is to investigate the potential of the application
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Gazmaths/Landslide-detection-using-semantic-segmentation-algorithms/blob/main/Landslide%20Detection%20Using%20Semantic%20Segmentation%20Algorithms.ipynb)
 <img src="https://gazmaths.github.io/assets/images/segmentationmodel.png" width="680">{: .align-center}
 ## 🤖 Generative AI Applications and Building Chatbots with Pre-trained LLM Models
+View the code
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Gazmaths/landslide-ai-agentic-assessment)
 ### 🏔️ Landslide Assessment Agent(An AI-driven interactive disasters monitoring app)
 <div class="video-wrap">
   <video
