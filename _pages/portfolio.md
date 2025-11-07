@@ -151,6 +151,8 @@ I created an interactive app that visualizes CarMax's data, highlighting the dis
 ## 🧠Machine Learning Models Applications
 ### 🔍 Automatic Model Hyperparameters GridSearch for Classification Models Using Python and Streamlit
 
+<img src="https://raw.githubusercontent.com/Gazmaths/ML_classification_app/main/streamlit.png" width="580">
+
 * This project is a modular machine learning pipeline built using Python and Streamlit. Through an intuitive web interface, users can preprocess data, explore datasets, train machine learning models, and make predictions on unseen data. The pipeline supports a machine learning workflow, from data cleaning to model evaluation and prediction.
 [![View the python scripts on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Gazmaths/ML_classification_app)
 [![Streamlit App](https://img.shields.io/badge/Streamlit-Visit_App-red?logo=streamlit&logoColor=white)](https://mlclassificationpipeline.streamlit.app/)
@@ -192,7 +194,7 @@ This app can be deployed to Streamlit Cloud for easy sharing and accessibility.
 * Seaborn
 * Matplotlib
 
-<img src="https://raw.githubusercontent.com/Gazmaths/ML_classification_app/main/streamlit.png" width="580">
+
 
 ### ✅ Machine Learning Course Project: Detection of Anomalies in Credit Card Transactions Using Supervised and Unsupervised Learning Techniques
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/Gazmaths/Credit-card-anomaly-detection-using-machine-learning-/blob/main/Anomalies_detection_in_credit_card_transactions.ipynb)
@@ -235,7 +237,7 @@ I employed the YOLOv11 model from Ultralytics, utilizing a transfer learning app
 <img src="https://gazmaths.github.io/assets/images/Yolo11detection.png" width="680">{: .align-center}
 
 ### ⚠️ Landslide Identification using Segmentation Models
-The objective of this project is to investigate the potential of the application of deep learning algorithms to analyze remote sensing data for landslide detection, utilizing an open-source dataset obtained from Meena et al. 2023.
+The objective of this project is to investigate the potential of deep learning algorithms for analyzing remote sensing data for landslide detection, using an open-source dataset from Meena et al. 2023.
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Gazmaths/Landslide-detection-using-semantic-segmentation-algorithms/blob/main/Landslide%20Detection%20Using%20Semantic%20Segmentation%20Algorithms.ipynb)
 <img src="https://gazmaths.github.io/assets/images/segmentationmodel.png" width="680">{: .align-center}
 ## 🤖 Generative AI Applications and Building Chatbots with Pre-trained LLM Models
