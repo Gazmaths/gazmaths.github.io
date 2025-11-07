@@ -8,6 +8,42 @@ toc_icon: "bookmark"
 ---
 *Updated: 04/01/2025*
 ## 📊Data Science and Analytics
+### Google Fiber Data Analysis
+
+**Project Summary — Google Fiber Repeat Caller Analytics Dashboard**
+
+I developed an end-to-end Business Intelligence solution for the Google Fiber Customer Service team to analyze and reduce repeat customer calls. Using fictionalized yet realistic call-center data, I built a complete data pipeline and dashboard that reveals how often customers contact support multiple times, which issues drive these repeat calls, and how call patterns vary across three market areas.
+
+**Data Engineering & ETL Pipeline (GCP + BigQuery)**
+
+I constructed a cloud-based ETL workflow using Google Cloud Platform (GCP) and BigQuery to ingest, clean, and model the call center datasets. This process included:
+
+Importing raw CSV datasets into BigQuery
+
+Cleaning and standardizing date and problem-type fields
+
+Transforming call-sequence columns into repeat-call metrics
+
+Creating analytical tables optimized for visualization and trend exploration
+
+This pipeline ensured scalable, query-efficient access to all datasets for stakeholders.
+
+**BI Dashboard Development (Tableau)**
+
+* I built an interactive Tableau dashboard aligned with stakeholder requirements, enabling users to explore:
+
+* Repeat calls by the first contact date
+
+* Problem types and markets driving repeat patterns
+
+* Trend views across week, month, quarter, and year
+
+* High-frequency issue categories and market-level comparisons
+
+<div class='tableauPlaceholder' id='viz1762482722453' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;FiberAnalytics_17559787036370&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='FiberAnalytics_17559787036370&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;FiberAnalytics_17559787036370&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1762482722453');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.minWidth='920px';vizElement.style.maxWidth='1520px';vizElement.style.width='100%';vizElement.style.minHeight='1227px';vizElement.style.maxHeight='1527px';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.minWidth='920px';vizElement.style.maxWidth='1520px';vizElement.style.width='100%';vizElement.style.minHeight='1227px';vizElement.style.maxHeight='1527px';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height='877px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+
+  
+
 ### Minnesota Interstate Traffic Volume Analysis
 **Introduction**
 
@@ -103,13 +139,11 @@ Many customers decide to trade in their current vehicle when purchasing a car at
 What does a customer's appraised vehicle tell us about the vehicle they will ultimately purchase? How can CarMax utilize this information to enhance business operations and deliver a more personalized shopping experience to its customers?
 
 **Solution**
-I created an interactive app that visualizes CarMax's data, highlighting the distribution of cars across various states, makes, and models. Additionally, I built a Random Forest classifier using encoded data to predict customers' likelihood of switching car makes, helping CarMax optimize its offerings and customer experience. The model performs well in identifying customers who switch car makes, but has lower precision for those who stay with the same make due to an imbalanced dataset. Future improvements could involve applying techniques such as oversampling, undersampling, or SMOTE to mitigate the effects of class imbalance and enhance model performance for customers who remain loyal to the same make. This insight could guide targeted marketing strategies.
+I created an interactive app that visualizes CarMax's data, highlighting the distribution of cars across various states, makes, and models. Additionally, I built a Random Forest classifier using encoded data to predict customers' likelihood of switching car makes, helping CarMax optimize its offerings and customer experience, and created a dashboard using Google Looker Studio. The model performs well in identifying customers who switch car makes, but has lower precision for those who stay with the same make due to an imbalanced dataset. Future improvements could involve applying techniques such as oversampling, undersampling, or SMOTE to mitigate the effects of class imbalance and enhance model performance for customers who remain loyal to the same make. This insight could guide targeted marketing strategies.
 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Gazmaths/carmax_analytics)
 [![Streamlit App](https://img.shields.io/badge/Streamlit-Visit_App-red?logo=streamlit&logoColor=white)](https://carmaxanalytics.streamlit.app/)
-
-<iframe width="600" height="450" src="https://lookerstudio.google.com/embed/reporting/d1cb1221-836f-40eb-b019-15e23b693c08/page/WZXHF" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/93ea07059672493cb156ba00e0d2db31?sid=e5a9f021-cd57-453a-9aa8-51f4e1b4894d" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
