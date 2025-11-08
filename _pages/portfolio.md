@@ -65,7 +65,7 @@ Check out the detailed executive summary of this project here:
 
 ### 💻 Current and Emerging Technology Trends Among Developers: A Data Analysis of the 2019 Stack Overflow Survey
 **Introduction**
-This project draws insights from Stack Overflow’s Developer Survey, one of the world’s largest surveys of its kind, with responses from nearly 90,000 developers worldwide. By analyzing both current and aspirational technologies used in the field, it uncovers key trends shaping the global developer landscape. The findings offer valuable demographic insights to inform hiring and training strategies, support data-driven decisions for technology investments, and guide developer upskilling initiatives. This analysis highlights global patterns and forecasts the future directions of the tech industry.
+This project draws insights from Stack Overflow’s Developer Survey, one of the world’s largest surveys of its kind, with responses from nearly 90,000 developers worldwide. By analyzing both current and aspirational technologies used in the field, it uncovers key trends shaping the global developer landscape. The findings offer valuable demographic insights to inform hiring and training strategies, support data-driven technology investment decisions, and guide developer upskilling initiatives. This analysis highlights global patterns and forecasts the future directions of the tech industry.
 
 **Methodology**
 * 🗂️ Data Collection 
@@ -167,7 +167,7 @@ This project is a modular machine learning pipeline built using Python and Strea
 * Model Training: Train and tune multiple models (Random Forest, Logistic Regression, XGBoost, SVC) using GridSearchCV.
 * Model Selection and Evaluation: Automatically pick the best model and evaluate its performance.
 * Prediction: Predict outcomes for unseen data with a trained model.
-* Visualization: View feature contributions using SHAP.
+* Visualization: View feature contributions using Random Forest feature importance.
 
 **Files and Structure**
 preprocess.py: Functions for data preprocessing (missing values, outliers).
@@ -226,7 +226,7 @@ This web-based app allows users to easily upload CSV files and perform explorato
 [![Streamlit App](https://img.shields.io/badge/Streamlit-Visit_App-red?logo=streamlit&logoColor=white)](https://gazal1app.streamlit.app/)
 
 ### 🚀 Optimizing Landslide Susceptibility Models through Ensemble Classification Techniques
-This study aims to assess how well machine learning models perform on landslide susceptibility mapping. For Polk County, Western North Carolina, seven distinct models were examined for landslide susceptibility modeling: Support Vector Machine (SVM), Logistic Regression (LR), Linear Discriminant Analysis (LDA), Random Forest (RF), and Extreme Gradient Boosting (XGBoost) and ensemble techniques (Stacking and Weighted Average). A dataset of 1215 historical landslide events and 1215 non-landslide sites, as well as fourteen geographic data layers, is used to evaluate these models.
+This study aims to assess how well machine learning models perform on landslide susceptibility mapping. For Polk County, Western North Carolina, seven distinct models were examined for landslide susceptibility modeling: Support Vector Machine (SVM), Logistic Regression (LR), Linear Discriminant Analysis (LDA), Random Forest (RF), Extreme Gradient Boosting (XGBoost), and ensemble techniques (Stacking and Weighted Average). A dataset of 1215 historical landslide events and 1215 non-landslide sites, as well as fourteen geographic data layers, is used to evaluate these models.
 Metrics including accuracy, F1-score, Kappa score, and AUC-ROC are used to assess these models' performance, with a focus on how non-landslide random sampling affects model outcomes.
 
 The buffer-based scenario's AUC-ROC was 91.8%, and the slope threshold scenario's was 99.4%. The weighted average ensemble of the five models yielded the best results. This demonstrates the effectiveness of machine learning in landslide susceptibility mapping, offering a strong instrument for pinpointing high-risk regions and guiding plans for disaster risk reduction. 
